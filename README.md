@@ -1,5 +1,7 @@
 ### GRUB2. Загрузка системы в Linux
 
+<img width="1182" height="576" alt="image" src="https://github.com/user-attachments/assets/570440a1-7aca-4234-b660-a6dbe6cdab10" />
+
 #### <a name='toc'>Содержание</a>
 
 1. [Загрузчик GRUB2](#grub2)
